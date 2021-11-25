@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 updated by kpg from a Windows box. 
 edited using gates editor.
 updated by kpg from a Windows box.
 edited using solid os called Linux.
-
+>>>>>>> d1833bfdf9eac335ab3997fc1b10be1e581ec057
